@@ -1,0 +1,7 @@
+Maintainer: There is none <test@test.com>
+Section: misc
+Priority: optional
+Package: libpango1.0-0
+Version: 1.14.0
+Depends: libpango-1.0-0
+Description: make bitscope work on Ubuntu 24
